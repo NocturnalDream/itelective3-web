@@ -1,11 +1,32 @@
-# Nissan Gateway
+# Nissan Gateway <img width="40" alt="nissan_logo" src="https://user-images.githubusercontent.com/120783409/208292365-fd47814d-1b61-407d-a652-12fb1860fa3c.jpg"> <img width="100" alt="gateway_logo" src="https://user-images.githubusercontent.com/120783409/208292359-162878ff-1aec-4567-9e35-dd9b4b2e7256.png">
 
-A totally random repo as of now because why not?
+## Used Frameworks
 
-* test 1 
-* test 2
-* test 3
+* WordPress (insert logo)
+* WooCommerce (insert logo)
+
+## Customer Management System
+
+Insert random 2 paragraph description about some details and the purpose of the system.
+
+### Sub-Systems
 
 1. A
+
+   lemon
+
 2. B
+
+   citrus
+
 3. C
+
+   lime
+
+4. D
+
+   kiwi
+
+5. E
+
+   orange
