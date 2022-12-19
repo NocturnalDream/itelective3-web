@@ -1,4 +1,4 @@
-# Nissan Gateway <img width="40" alt="nissan_logo" src="https://user-images.githubusercontent.com/120783409/208292365-fd47814d-1b61-407d-a652-12fb1860fa3c.jpg"> <img width="100" alt="gateway_logo" src="https://user-images.githubusercontent.com/120783409/208292359-162878ff-1aec-4567-9e35-dd9b4b2e7256.png">
+# Nissan Gateway <img height="40" alt="nissan_logo" src="https://user-images.githubusercontent.com/120783409/208292365-fd47814d-1b61-407d-a652-12fb1860fa3c.jpg"> <img height="40" alt="gateway_logo" src="https://user-images.githubusercontent.com/120783409/208292359-162878ff-1aec-4567-9e35-dd9b4b2e7256.png">
 
 ## Used Frameworks
 
