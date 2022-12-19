@@ -2,9 +2,9 @@
 
 ## Used Frameworks
 
-* WordPress <img height="20" alt="wordpress_logo" src="https://user-images.githubusercontent.com/120783409/208293513-c0247788-b5ab-43aa-8e62-8b9eb4492216.png">
+* [WordPress](https://wordpress.com/) <img height="20" alt="wordpress_logo" src="https://user-images.githubusercontent.com/120783409/208293513-c0247788-b5ab-43aa-8e62-8b9eb4492216.png">
 
-* WooCommerce <img height="20" alt="woocommerce_logo" src="https://user-images.githubusercontent.com/120783409/208293644-5c4a806f-1905-4313-a69c-bf1b246437fb.png">
+* [WooCommerce](https://woocommerce.com/) <img height="20" alt="woocommerce_logo" src="https://user-images.githubusercontent.com/120783409/208293644-5c4a806f-1905-4313-a69c-bf1b246437fb.png">
 
 ## Customer Management System
 
@@ -17,4 +17,4 @@ In this system, the business will keep a proper database of its client's data. T
 1. Client Database
 2. Client Connections/Networking
 3. Lead Organization and Distribution
-4. Administrative System
+4. Admin System
