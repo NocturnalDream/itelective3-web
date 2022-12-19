@@ -17,4 +17,4 @@ In this system, the business will keep a proper database of its client's data. T
 1. Client Database
 2. Client Connections/Networking
 3. Lead Organization and Distribution
-4. Administration
+4. Administrative System
